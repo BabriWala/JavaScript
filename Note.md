@@ -157,3 +157,137 @@ instance of
 Bitwise operator
 operators and operand
 
+
+
+#11 JS Data Types
+
+String 
+Number
+Boolean
+
+*   High Level Mane Onk Upore na Se Machine Tike Dure Ase Machine Holo Niche
+*   JS expression Calcualte Left To Right eg: expression + string = expressionString and string + expression = String
+
+Javascript is a dynamically types
+
+*   " it's " and ' "are" '
+
+expoenential
+
+*   (x==y) = expression
+*   JS heart is Objects: name:value separated by commas
+
+*   undefined is a vlalue: kisu nai eitai value: undefined is a keyword
+*   '' is a vlalue empty string
+
+
+
+#12 JS Function
+
+Function Define Not Declare
+Function Call/invocation
+
+*   parameters
+*   arguments
+*   Alt + Arrow Up or Down
+*   When function find return then he will not execute farther line ba porer line gulo se ar porbena
+*   Kono Kisu Return Na korle function Automatically Undefined Return Kore dibe
+*   Only myFunction likhle eita puratai function diye dibe 
+*   Function Like VAriable
+*   var baire declare korle function scope tike change kora jabe naar var vitore declar korle baire tike access kora jabena kintu if else er modde var use korle sob jaigai change hoye jabe.
+
+
+
+#13 JS Object
+
+We should use const to declare object
+Literal Object
+Property and Value
+Object Method = Function Object
+
+*   This mane holo div er modde jodi ami h1 likhe eitar modde jodi ami this likhi tahole oi div k bujabe
+*   let x = 5; literal syntax
+    let x = new Number(5) eivabeo declare kora jai
+    eita jooto kom use kora jai toto valo eita execution time tao komate sahajjo korbe
+
+
+
+#14 JS Events
+
+JavasScript is event dribble alnguage
+
+*   Event Listen = jokon kono akta event ghote tokono js oita listen ba react korte pare e.g
+    butoon e click korlo tahole event holo tokon js event ta listen korbe j oitar modde ki kisu ase kina tahole sei onujayi kaj korbe
+
+event handler and event handler function
+
+*   onClick = "displayDate()" eita click korle function kaj korbe but automatic call hobe na karon eita html file
+
+
+
+#15 JS String
+
+*   Escape Chracter
+*   duita object kokono comparison korai jaina
+
+
+
+#16 JS String Method
+
+*   String Object Jehetu er Method o Takte pare
+    const s = "Bangladesh" console.log(s.length); 
+    jokhon length call kora hoi tokon oi string ta k new String Hisebe Kolpona kora hoi 
+    ar oi new string er modde length name akta method ase
+*   SubString
+    SubStr
+    replace
+    concat
+    toUpperCase, toLowerCase
+    string method ar immutable
+    trim() form er name ar age space and sesh e space
+    padd Start , end
+    CharAt, CharCodeAt, text[0]
+
+
+
+#17 JS String Search
+
+*   index Of, -1, case sensitive, lastindexOf, serach, match, includes, startsWith, endsWith
+
+
+
+#18 JS String Templates
+
+Template Literals
+Back Ticks
+Interpolation
+Variable Substitution
+Expression Substitution
+HTML Template
+
+
+
+#19 JS Numbers
+
+exponent
+*   js 15 ta number porte pare, decimal number is 17, duita floating number jog korle sobsomoi 100% hobena
+*   Js Left to Right Execute kore
+*   numeric string / numeric string = numeric + sara jkono operator diye kaj korano string er numeric er modde
+*   NaN = Not a Number = string / number = NaN
+*   isNaN()
+*   NaN is a Number
+*   Infinity, Infinity is a Number
+*   0x k js hexadecimal number mone kore, to string(number stystem base), 
+*   new Number (123) = object
+
+
+
+#20 Js Number Methods
+
+*   toString(),toexponential(), toFixed, toprecision(), valueOf, number, parseInt, parseFloat
+*   number.maxvalue, number.minvalue, positive_infinity
+
+
+
+
+
